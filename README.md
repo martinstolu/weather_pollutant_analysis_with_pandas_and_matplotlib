@@ -93,4 +93,4 @@ st.pyplot(fig)
 
 ## 👨‍💻 Author
 
-Built with ☁️ and 📊 by **Your Name Here**
+Built with ☁️ and 📊 by **Tolu Martins**
